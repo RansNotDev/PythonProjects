@@ -1,5 +1,5 @@
-length = int(input("Enter Length : "))
-width = int(input("Enter Width : "))
+length = float(input("Enter Length : "))
+width = float(input("Enter Width : "))
 
 result = length * width
 
